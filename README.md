@@ -28,9 +28,5 @@ port:3306
 table's coloumn name:
 id,username,password,email,address,mob_no,balance
 
-## DEMO
-
-
-[![Alt text](https://img.youtube.com/vi/Yr5hG54KNmc/0.jpg)](https://www.youtube.com/watch?v=Yr5hG54KNmc)
 
 
